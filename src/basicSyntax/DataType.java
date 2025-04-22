@@ -5,10 +5,10 @@ public class DataType {
 
 	public static void main(String[] args) {
 		// TODO 自動生成されたメソッド・スタブ
-		String Hello = "こんにちは";
-		String MyName = "私の名前は";
-		String Is = "Geek君です。";
-		System.out.println(Hello + MyName + Is);
+		String hello = "こんにちは";
+		String myName = "私の名前は";
+		String is = "Geek君です。";
+		System.out.println(hello + myName + is);
 		
 		int a = 10;
 		int b = 2024;
